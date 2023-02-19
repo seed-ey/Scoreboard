@@ -1,0 +1,70 @@
+
+
+
+.container {
+    width: 575px;
+    background: #0c0c1e;
+    height: 385px;
+}
+.pairs {
+    display: flex;
+    font-size: 35px;
+    font-family: verdana;
+    font-weight: 700;
+    line-height: 36px;
+    font-style: normal;
+    text-align: center;
+    justify-content: space-between;
+    padding: 0 85px;
+    color: white;
+}
+.pairs button {
+    width: 155px;
+    height: 120px;
+    background: black;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    font-size: 90px;
+    border-radius: 4px;
+}
+
+
+
+.guest {
+    width: 150px;
+    height: 36px;
+    margin-left: 340px;
+    margin-top: 68px;
+    font-size: 40px;
+    font: verdana;
+    font-weight: 700;
+    line-height: 36px;
+    font-style: normal;
+    text-align: center;
+}
+.pairs-2 {
+    display: flex;
+    font-size: 35px;
+    font-family: verdana;
+    font-weight: 700;
+    line-height: 36px;
+    font-style: normal;
+    text-align: center;
+    justify-content: space-between;
+    padding: 0 85px;
+    color: white;
+    
+}
+.pairs-2 button {
+    width: 45px;
+    height: 45px;
+    margin-top: 30px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    border-radius: 5px;
+    background: none;
+    color: white;
+    border: 1px solid white;
+    font-weight: 400;
+    font-size: 17px;
+
+}
